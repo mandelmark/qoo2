@@ -1,9 +1,16 @@
-com.HubLawtanApp1.qooapphelpergamestoreapp
-
-08f7a19180dcf5cd	BANNER	-	
-
-40840fda64061443	INTER	-	
-
-ff683e2a2ffc51ff	NATIVE	-	
-
-ba0748259a00ea61	REWARD	-
+{
+            "ads": {"network":"applovin","url":""},
+            "reword": {"items":""},
+            
+            "fan": {
+            "banner":"",
+            "inter":"",
+            "nativ":"",
+            "reword":""},
+            
+            "applovin": {
+            "banner":"08f7a19180dcf5cd",
+            "inter":"40840fda64061443",
+            "nativ":"ff683e2a2ffc51ff",
+            "reword":"ba0748259a00ea61"}
+            }
